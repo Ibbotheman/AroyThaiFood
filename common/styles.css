@@ -111,6 +111,10 @@ textarea:focus { outline-color: #EF0031; }
   font-size: 16px;
 }
 
+.button1:focus, .button1:active, .button1:hover,
+button:focus, button:active, button:hover,
+.button1 .button1.light-color:hover { text-decoration: none; color: floralwhite;}
+
 /* RESPONSIVE */
 
 @media only screen and (max-width: 1200px) {
